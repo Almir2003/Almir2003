@@ -1,3 +1,5 @@
+opasm;l[dsmf;pdsmfpdsmpfmdspfmldspmf;sldmfs;dknf;kldsmf;sdmfs;mfopasm;l[dsmf;pdsmfpdsmpfmdspfmldspmf;sldmfs;dknf;kldsmf;sdmfs;mfopasm;l[dsmf;pdsmfpdsmpfmdspfmldspmf;sldmfs;dknf;kldsmf;sdmfs;mfopasm;l[dsmf;pdsmf
+opasm;l[dsmf;pdsmfpdsmpfmdspfmldspmf;sldmfs;dknf;kldsmf;sdmfs;mfopasm;l[dsmf;pdsmfpdsmpfmdspfmldspmf;sldmfs;dknf;kldsmf;sdmfs;mfopasm;l[dsmf;pdsmfpdsmpfmdspfmldspmf;sldmfs;dknf;kldsm
 Сертификаты
 Установка в AD
 Устанавливаем https://slproweb.com/download/Win64OpenSSL-3_0_1.exe
