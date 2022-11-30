@@ -1,0 +1,12 @@
+asfasdfdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfg dВыбираем PostgreSQL, вводим ip TM, вводим пароль
+sffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgd Скачиваем и запускаем программу Putty для удаленного подключения к TM
+sfasdfdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgd Переходим по пути:
+asdasdasdsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgd nano /opt/iw/tm5/etc/consul/consul.json
+sffdsgdbcvbdfgd Там копируем секретный ключ
+sfsffdsgdbcvbdfgd Потом переходим по пути:
+sffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgd nano /opt/iw/tm5/etc/web.conf
+xfsffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgd нажимаем ctrl+w вводим crawler меняем с 0 на 1
+aasdsdsffdsgdbcvbdfgdsffdsgdbcvbdfgd Переходим в TM и копируем токен для Краулера
+sffdsgdbcvbdfgdsffdsgdbcvbdfgdsffdsgdbcvbdfgd После ждем 2 мин. И заходим в сам Краулер для настройки (в тм)
+sffdasdsgdbcvbdfgdsffdsgdbcvbdfgd Создаем сетевую папку
+sffdsgdbcvbdfgdsffdsgdbcvbdfgd Закидываем туда политику с грифами и проверяемasd
